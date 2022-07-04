@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Jak je 😄
-### Nejlepší je vesmír 🔭
+### Nejlepší je **vesmír** 🔭
 
 <!--
 **Hermajster/Hermajster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
